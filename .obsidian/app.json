@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Images",
+  "legacyEditor": false,
+  "livePreview": true
+}

@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "abb7e4b9db026173",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb009012892b01c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Generated Languages.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "c298d6d96f4b248b"
+      },
+      {
+        "id": "d5230e063e07cc4b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Generated Languages.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "c298d6d96f4b248b"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "400468666f69a201",
+    "type": "split",
+    "children": [
+      {
+        "id": "48668678151b1585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ac6c3c0ffde94b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec17178fd85ed978",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "303cb535f7aaa9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "613426ddcc3a40c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171f94c760e63a66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generated Languages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7bb009012892b01c",
+  "lastOpenFiles": [
+    "Generative Grammars.md",
+    "Parsing.md",
+    "Generated Languages.md",
+    "Notation.md",
+    "Conventions.md",
+    "Semantic analysis.md",
+    "Compiler front-end.md",
+    "Regular languages and lexical analysis.md",
+    "Images/Resolving conflicts/SLR(1) automaton.png",
+    "Images/Parsing/Tree representation of grammar with immediate left recursion.png"
+  ]
+}
