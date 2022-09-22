@@ -13,21 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "c298d6d96f4b248b"
-      },
-      {
-        "id": "d5230e063e07cc4b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Generated Languages.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "c298d6d96f4b248b"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 107.5
   },
   "right": {
     "id": "303cb535f7aaa9a4",
@@ -89,12 +75,21 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "9e870e61f386686e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,15 +98,15 @@
   },
   "active": "7bb009012892b01c",
   "lastOpenFiles": [
-    "Generative Grammars.md",
-    "Parsing.md",
+    "Images/Pumping Lemma/v0x0-derivation-tree.png",
     "Generated Languages.md",
-    "Notation.md",
-    "Conventions.md",
+    "Images/Pumping Lemma/a1-a2-pair.png",
+    "Symbol tables.md",
     "Semantic analysis.md",
-    "Compiler front-end.md",
     "Regular languages and lexical analysis.md",
-    "Images/Resolving conflicts/SLR(1) automaton.png",
-    "Images/Parsing/Tree representation of grammar with immediate left recursion.png"
+    "Parsing.md",
+    "Notation.md",
+    "Generative Grammars.md",
+    "Conventions.md"
   ]
 }

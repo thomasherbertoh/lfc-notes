@@ -1,11 +1,75 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "definition": {
+      "type": "definition",
+      "color": "13, 239, 25",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "idea": {
+      "type": "idea",
+      "color": "0, 29, 58",
+      "icon": {
+        "name": "info",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Idea",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "problem": {
+      "type": "problem",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "exclamation-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Problem",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "solution": {
+      "type": "solution",
+      "color": "65, 192, 1",
+      "icon": {
+        "name": "check-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Solution",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
-  "version": "6.5.1",
+  "version": "7.0.4",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,
-  "enableMarkdownProcessor": false,
-  "injectColor": true
+  "injectColor": true,
+  "parseTitles": true,
+  "allowMSSyntax": true,
+  "msSyntaxIndented": true,
+  "livePreviewMS": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false
 }
